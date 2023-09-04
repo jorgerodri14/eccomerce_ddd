@@ -1,4 +1,4 @@
- import { Request, Response, Router } from 'express';
+import { Request, Response, Router } from 'express';
 
 import StatusController from '../controllers/StatusGetController';
 import container from '../dependency-injection';
